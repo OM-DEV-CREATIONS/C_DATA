@@ -73,8 +73,6 @@ int main()
     printf("**********************************");
     gotoxy(25, 7);
 
-    printf("DEVELOPER-Naman kumar");
-
     gotoxy(20, 10);
     printf("1.... CREATE A BANK ACCOUNT");
 
